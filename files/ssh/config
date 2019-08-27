@@ -1,0 +1,7 @@
+Host um-*
+   StrictHostKeyChecking no
+   UserKnownHostsFile=/dev/null
+
+Host pm-*
+   StrictHostKeyChecking no
+   UserKnownHostsFile=/dev/null

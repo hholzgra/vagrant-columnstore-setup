@@ -1,0 +1,5 @@
+deb https://downloads.mariadb.com/MariaDB/mariadb-columnstore/latest/repo/ubuntu18 bionic main
+deb https://downloads.mariadb.com/MariaDB/mariadb-columnstore-api/latest/repo/ubuntu18 bionic main
+deb https://downloads.mariadb.com/MariaDB/mariadb-columnstore-tools/latest/repo/ubuntu18 bionic main
+deb https://downloads.mariadb.com/MariaDB/data-adapters/mariadb-streaming-data-adapters/latest/repo/ubuntu18 bionic main
+
